@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-Welcome to Mr. Chan's page, where you can find different learning resources.
+Welcome to Mr. Chan's page! Here you can find different learning resources which you may find helpful.
 
 #### How to use
 * For grammar notes and practices, go to **[Grammar](/modules/grammar)**
