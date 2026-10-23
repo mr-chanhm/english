@@ -15,7 +15,7 @@ Welcome to Mr. Chan's page! Here you can find different learning resources which
 
 #### About Mr. Chan
 Some facts:
-* I studied linguistics in the UK (highly recommend this major!!)
-* My MBTI INFJ
+* I studied linguistics in the UK (highly recommend this subject!!)
+* My MBTI is INFJ
 * I am currently learning Korean
 * I love Polaroids
